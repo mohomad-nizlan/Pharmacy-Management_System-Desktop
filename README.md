@@ -3,7 +3,7 @@
 A desktop-based application to efficiently manage pharmacy operations including sales, inventory, billing, and reporting.Built using C# (WinForms) and MySQL, this system replaces manual record-keeping with an automated, accurate, and user-friendly interface. The application utilizes Guna UI Framework for an enhanced user interface and DGV Printers for advanced data grid printing capabilities.<br><br>
 
 
-<h2>🎯 Objectives<h2>
+<h2>🎯 Objectives</h2>
 
 ✔ Automate pharmacy operations and minimize manual errors<br>
 ✔ Track stock levels, expiry dates, and medicine batches<br>
@@ -12,7 +12,7 @@ A desktop-based application to efficiently manage pharmacy operations including 
 ✔ Generate detailed sales and inventory reports<br><br>
 
 
-<h2>🧠 Technologies Used<h2>
+<h2>🧠 Technologies Used</h2>
 
 💻 Frontend: C# (WinForms, .NET Framework) with Guna UI Framework<br>
 🛢 Backend: MySQL<br>
@@ -21,7 +21,7 @@ A desktop-based application to efficiently manage pharmacy operations including 
 🎨 UI Enhancement: Guna UI Framework<br><br>
 
 
-<h2>📁 Features<h2>
+<h2>📁 Features</h2>
 
 🔐 User Authentication & Roles<br>
 
