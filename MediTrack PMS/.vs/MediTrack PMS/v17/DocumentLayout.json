@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|c:\\users\\user\\onedrive\\desktop\\projects\\pharmacy managment system\\pharmacy\\meditrack pms\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A937DE6-17EC-44C0-A644-4258A05277D7}|MediTrack PMS.csproj|solutionrelative:administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uc_p_sellMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_sellMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_sellMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_sellMedicine.cs",
+              "RelativeToolTip": "pharmacistUC\\uc_p_sellMedicine.cs",
+              "ViewState": "AgIAAD8CAAAAAAAAAAAMwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:47:42.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Administrator.cs [Design]",
+              "RelativeToolTip": "Administrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:53:04.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uc_p_sellMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_sellMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_sellMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_sellMedicine.cs [Design]",
+              "RelativeToolTip": "pharmacistUC\\uc_p_sellMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:47:40.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:01:12.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uc_p_viewMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_viewMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_viewMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_viewMedicine.cs [Design]",
+              "RelativeToolTip": "pharmacistUC\\uc_p_viewMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:40:48.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAMwIcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:58:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uc_p_medicineValidityCheck.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_medicineValidityCheck.cs [Design]",
+              "RelativeToolTip": "pharmacistUC\\uc_p_medicineValidityCheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:57:08.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "uc_p_medicineValidityCheck.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "RelativeToolTip": "pharmacistUC\\uc_p_medicineValidityCheck.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAmwI4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:57:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "uc_p_updateMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_updateMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_updateMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_updateMedicine.cs [Design]",
+              "RelativeToolTip": "pharmacistUC\\uc_p_updateMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:55:51.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "uc_p_updateMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_updateMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_updateMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_updateMedicine.cs",
+              "RelativeToolTip": "pharmacistUC\\uc_p_updateMedicine.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAIAwwKIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:52:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "uc_p_viewMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_viewMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_viewMedicine.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_viewMedicine.cs",
+              "RelativeToolTip": "pharmacistUC\\uc_p_viewMedicine.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:42:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "uc_profile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_profile.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_profile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_profile.cs",
+              "RelativeToolTip": "AdministratorUC\\uc_profile.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAMwFIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:26:56.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_Adduser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\UC_Adduser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Adduser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\UC_Adduser.cs",
+              "RelativeToolTip": "AdministratorUC\\UC_Adduser.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAD4v/cAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:37:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Adduser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\UC_Adduser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Adduser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\UC_Adduser.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_Adduser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:48.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "uc_viewUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_viewUser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_viewUser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_viewUser.cs",
+              "RelativeToolTip": "AdministratorUC\\uc_viewUser.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAD4v7sAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:36:26.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "uc_viewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_viewUser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_viewUser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_viewUser.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\uc_viewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:53.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "uc_p_dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_dashboard.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_dashboard.cs [Design]",
+              "RelativeToolTip": "pharmacistUC\\uc_p_dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:42:43.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "uc_p_dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_dashboard.cs",
+              "RelativeDocumentMoniker": "pharmacistUC\\uc_p_dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\pharmacistUC\\uc_p_dashboard.cs",
+              "RelativeToolTip": "pharmacistUC\\uc_p_dashboard.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAD4v2MAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:49:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "uc_dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_dashboard.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_dashboard.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\uc_dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "uc_dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_dashboard.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_dashboard.cs",
+              "RelativeToolTip": "AdministratorUC\\uc_dashboard.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:23.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "uc_profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_profile.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\uc_profile.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Projects\\Pharmacy Managment System\\pharmacy\\MediTrack PMS\\AdministratorUC\\uc_profile.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\uc_profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:07:07.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

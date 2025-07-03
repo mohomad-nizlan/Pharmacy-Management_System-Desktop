@@ -1,0 +1,48 @@
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.exe.config
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.exe
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.pdb
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Form1.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrac.0F5318BF.Up2Date
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.exe
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.pdb
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\bin\Debug\Guna.UI.dll
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Administrator.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_dashboard.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.UC_Adduser.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacist.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_viewUser.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_profile.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_dashboard.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_addMedicine.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_viewMedicine.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_updateMedicine.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_medicineValidityCheck.resources
+C:\Users\User\OneDrive\Desktop\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_sellMedicine.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.exe.config
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.exe
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\bin\Debug\MediTrack PMS.pdb
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\bin\Debug\Guna.UI.dll
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Administrator.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.UC_Adduser.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_dashboard.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_profile.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.AdministratorUC.uc_viewUser.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Form1.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacist.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_addMedicine.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_dashboard.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_medicineValidityCheck.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_sellMedicine.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_updateMedicine.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.pharmacistUC.uc_p_viewMedicine.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack_PMS.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrac.0F5318BF.Up2Date
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.exe
+C:\Users\User\OneDrive\Desktop\Projects\Pharmacy Managment System\pharmacy\MediTrack PMS\obj\Debug\MediTrack PMS.pdb
